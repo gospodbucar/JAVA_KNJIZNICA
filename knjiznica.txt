@@ -1,0 +1,338 @@
+*KNI
+Janez Bucar
+Pot do mojega Bogastva
+Slovenski
+1999
+Politika
+janez, bucar, pot, do, mojega, bogastva, slovenski, avtobiografija, 342, 1999, politika, knjiga
+Avtobiografija
+342
+true
+false
+36
+##
+*KNI
+Patricija Prpar
+Kuhajmo z Binko
+Slovenski
+2009
+Zdravje
+patricija, prpar, kuhajmo, z, binko, slovenski, kuharska, knjiga, 399, 2009, zdravje, knjiga
+Kuharska Knjiga
+399
+false
+false
+42
+##
+*KNI
+Bine Prpar
+Kam na morje?
+Hrvaski
+1988
+Naravoslovje
+bine, prpar, kam, na, morje?, hrvaski, turistični, vodič, 30, 1988, naravoslovje, knjiga
+Turistični vodič
+30
+false
+false
+31
+##
+*KNI
+Zan Bucar
+Otroske pesmi
+Slovenski
+2003
+Zabavna
+zan, bucar, otroske, pesmi, slovenski, slikanica, 32, 2003, zabavna, knjiga
+Slikanica
+32
+false
+false
+80
+##
+*KNI
+Marija Kobe
+Miliarije
+Slovenski
+2008
+Zgodovina
+marija, kobe, miliarije, slovenski, avtobiografija, 500, 2008, zgodovina, knjiga
+Avtobiografija
+500
+false
+false
+47
+##
+*ZVO
+Matic Klobasa
+DJ MACE
+Slovenski
+2014
+Glasba
+matic, klobasa, dj, mace, slovenski, vinilka, 45, 2014, glasba, zvocno, gradivo
+Vinilka
+45
+true
+false
+81
+##
+*ZVO
+Bobby Schmurda
+Ni**a
+Angleski
+2016
+Glasba
+bobby, schmurda, ni**a, angleski, zgoščenka, 49, 2016, glasba, zvocno, gradivo
+Zgoščenka
+49
+true
+false
+68
+##
+*ZVO
+Oliver Prpar
+MC oli in the house
+Slovenski
+2002
+Glasba
+oliver, prpar, mc, oli, in, the, house, slovenski, dvd, 423, 2002, glasba, zvocno, gradivo
+DVD
+423
+false
+false
+44
+##
+*ZVO
+Janez Bucar
+90 HITS
+Srbski
+1990
+Glasba
+janez, bucar, 90, hits, srbski, kaseta, 50, 1990, glasba, zvocno, gradivo
+Kaseta
+50
+false
+false
+72
+##
+*ZVO
+Andrej Von Grah
+Simphony
+Slovenski
+1930
+Glasba
+andrej, von, grah, simphony, slovenski, vinilka, 43, 1930, glasba, zvocno, gradivo
+Vinilka
+43
+true
+false
+54
+##
+*PER
+Simona Grah
+Novice z Simono
+Slovenski
+2020
+Politika
+simona, grah, novice, z, simono, slovenski, časopis, 40, 2020, politika, periodicna, publikacija
+Časopis
+40
+false
+false
+54
+##
+*PER
+Borut Pehnec
+Slovenske Novice
+Slovenski
+2020
+Politika
+borut, pehnec, slovenske, novice, slovenski, revija, 12, 2020, politika, periodicna, publikacija
+Revija
+12
+false
+false
+3
+##
+*PER
+Saso Klobukar
+Dolenjske Krizanke
+Slovenski
+2020
+Zabavna
+saso, klobukar, dolenjske, krizanke, slovenski, krizanka, 20, 2020, zabavna, periodicna, publikacija
+Krizanka
+20
+false
+false
+44
+##
+*PER
+Nero Mark
+Miki Miska
+Slovenski
+2020
+Zabavna
+nero, mark, miki, miska, slovenski, strip, 30, 2020, zabavna, periodicna, publikacija
+Strip
+30
+false
+false
+91
+##
+*PER
+Davor Medle
+Suduku
+Slovenski
+2020
+Zabavna
+davor, medle, suduku, slovenski, krizanka, 20, 2020, zabavna, periodicna, publikacija
+Krizanka
+20
+true
+false
+35
+##
+*KAR
+Milan Kobe
+Zemljevid Slovenije
+Slovenski
+2000
+Naravoslovje
+milan, kobe, zemljevid, slovenije, slovenski, zemljevid, 1, 2000, naravoslovje, kartografsko, gradivo
+Zemljevid
+1
+false
+false
+37
+##
+*KAR
+Brane Zvone
+Atlas sveta
+Angleski
+2005
+Naravoslovje
+brane, zvone, atlas, sveta, angleski, atlas, 1, 2005, naravoslovje, kartografsko, gradivo
+Atlas
+1
+false
+false
+13
+##
+*KAR
+Stephan Aurry
+Zemljevid Anglije
+Angleski
+1999
+Naravoslovje
+stephan, aurry, zemljevid, anglije, angleski, zemljevid, 1, 1999, naravoslovje, kartografsko, gradivo
+Zemljevid
+1
+false
+false
+68
+##
+*KAR
+McRonley Binka
+Zemljevid Amerike
+Angleski
+1970
+Naravoslovje
+mcronley, binka, zemljevid, amerike, angleski, zemljevid, 1, 1970, naravoslovje, kartografsko, gradivo
+Zemljevid
+1
+true
+false
+50
+##
+*KAR
+Kren Mink
+Atlas Morja
+Nemski
+2009
+Naravoslovje
+kren, mink, atlas, morja, nemski, atlas, 1, 2009, naravoslovje, kartografsko, gradivo
+Atlas
+1
+false
+false
+67
+##
+*STR
+Borut Luzar
+Matematika 2
+Slovenski
+2015
+Strokovne informacije
+borut, luzar, matematika, 2, slovenski, matematika, 4000, 2015, strokovne, informacije, strokovna, literatura
+Matematika
+4000
+false
+false
+31
+##
+*STR
+Kenny Neki
+Programiranje
+Slovenski
+2018
+Strokovne informacije
+kenny, neki, programiranje, slovenski, programiranja, 2034, 2018, strokovne, informacije, strokovna, literatura
+Programiranja
+2034
+true
+false
+74
+##
+*STR
+Davor Prpar
+Informatika 2
+Slovenski
+2009
+Strokovne informacije
+davor, prpar, informatika, 2, slovenski, informatika, 3000, 2009, strokovne, informacije, strokovna, literatura
+Informatika
+3000
+false
+false
+50
+##
+*STR
+Branka Zuglej
+Slovenscina na maturi
+Slovenski
+2019
+Strokovne informacije
+branka, zuglej, slovenscina, na, maturi, slovenski, slovenščina, 300, 2019, strokovne, informacije, strokovna, literatura
+Slovenščina
+300
+true
+false
+4
+##
+*STR
+Zeko Neromir
+Anglescina
+Angleski
+2009
+Strokovne informacije
+zeko, neromir, anglescina, angleski, angleščina, 300, 2009, strokovne, informacije, strokovna, literatura
+Angleščina
+300
+false
+false
+41
+##
+*STR
+Branko neki
+Matematika 1 
+Slovenski
+2004
+Strokovne informacije
+branko, neki, matematika, 1, , slovenski, matematika, 3000, 2004, strokovne, informacije, strokovna, literatura
+Matematika
+3000
+false
+false
+75
+##

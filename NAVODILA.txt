@@ -1,0 +1,61 @@
+NAVODILA ZA KNJIZNICO // JANEZ BUCAR 35160122
+
+NPROGRAM ZAZENEMO Z UKAZOM		 java -jar Knjiznica.abc
+
+ali							    	java UporabniskiVmesnik
+
+
+1. Ko pridemo v program pritisnemo tipko (r) z malimi črkami.
+
+2. Vnesemo ime datoteke ki je shranjena kot  knjiznica.txt 		 kjer so shranjene knjige
+
+3. Nato pa lahko v knjiznici pocnemo kar nam program dopusca. Spodaj prilagam seznam tipk ter ukazov in moznosti za delo z programom.
+
+	**** VNOS ARTIKLOV ****
+
+
+Pritisnite (k) za vnos knjige
+Pritisnite (i) za izpis knjig
+
+Pritisnite (z) za vnos zvočnega gradiva
+Pritisnite (u) za izpis zvočnega gradiva
+
+Pritisnite (h) za vnos kartografskega gradiva
+Pritisnite (b) za izpis kartografskega gradiva
+
+Pritisnite (c) za vnos periodične publikacije
+Pritisnite (v) za izpis periodične publikacije
+
+Pritisnite (w) za vnos strokovne literature
+Pritisnite (e) za izpis strokovne literature
+
+		
+	**** ISKANJE ****
+
+Pritisnite (1) za izpis po ključnih besedah
+Pritisnite (2) za izpis po ID artikla
+Pritisnite (3) za izpis po zvrsti
+Pritisnite (4) za izpis po jeziku
+Pritisnite (5) za izpis po SKUPINAH
+
+Pritisnite (a) za izpis celotne knjižnice
+
+	**** REZERVACIJA/IZPOSOJA/VRNITEV ****
+
+Pritisnite (6) za rezervacijo artikla po ID
+Pritisnite (7) za izposojo artikla po ID
+Pritisnite (8) za vrnitev artikla na zalogo
+
+	**** IZBRIS PO ID ARTIKLA ****
+
+Pritisnite (d) za izbris artikla po ID
+Pritisnite (m) za izbris artikla po Avtorju
+
+	**** DATOTEKE ****
+
+Pritisnite (f) za izpis v datoteko
+Pritisnite (r) za izpis iz datoteko
+
+Pritisnite (x) za izhod iz programa
+
+
